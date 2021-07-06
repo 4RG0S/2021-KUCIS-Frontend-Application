@@ -27,9 +27,9 @@ const sections = [
 ];
 
 const mainFeaturedPost = {
-  title: 'Title of a longer featured blog post',
+  title: '2021 ARGOS KUCIS',
   description:
-    "Multiple lines of text that form the lede, informing new readers quickly and efficiently about what's most interesting in this post's contents.",
+    "한국형 Cyber Attack Matrix 및 BAS 솔루션",
   image: 'https://images.unsplash.com/photo-1555421689-491a97ff2040?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80',
   imgText: 'main image description',
   linkText: 'Continue reading…',
@@ -80,7 +80,7 @@ const sidebar = {
   ],
 };
 
-export default function Blog() {
+export default function Board() {
   const classes = useStyles();
 
   return (
