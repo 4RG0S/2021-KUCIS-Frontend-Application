@@ -34,7 +34,6 @@
 - 명령조로
 
 ex) Add login page
-
 ex) Refactor login function
 
 2. npm install
