@@ -25,7 +25,8 @@ const useStyles = makeStyles((theme) => ({
     flexShrink: 0,
   },
   linkBox:{
-    width: '200px'
+    width: '200px',
+    textAlign: 'center',
   }
 }));
 
