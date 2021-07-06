@@ -28,19 +28,19 @@ const mainFeaturedPost = {
 
 const featuredPosts = [
   {
-    title: 'Featured post',
-    date: 'Nov 12',
+    title: 'Example Post',
+    date: 'July 7',
     description:
-      'This is a wider card with supporting text below as a natural lead-in to additional content.',
-    image: 'https://source.unsplash.com/random',
+      'ARGOS is JJang JJang Club',
+    image: 'http://argos.or.kr/files/attach/images/183/194/a9e72c10135579433a7f30433f211d08.png',
     imageText: 'Image Text',
   },
   {
-    title: 'Post title',
-    date: 'Nov 11',
+    title: 'Example Post',
+    date: 'July 7',
     description:
-      'This is a wider card with supporting text below as a natural lead-in to additional content.',
-    image: 'https://source.unsplash.com/random',
+      'ARGOS is JJang JJang Club',
+    image: 'http://argos.or.kr/files/attach/images/183/194/a9e72c10135579433a7f30433f211d08.png',
     imageText: 'Image Text',
   },
 ];
