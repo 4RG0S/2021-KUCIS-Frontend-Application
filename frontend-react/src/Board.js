@@ -8,6 +8,7 @@ import Footer from './Footer';
 
 import BoardHome from './BoardHome';
 import SignIn from './pages/SignIn';
+import SignUp from './pages/SignUp';
 import Introduction from './pages/Introduction';
 import TTP from './pages/TTP';
 import Projects from './pages/Projects';
@@ -30,6 +31,7 @@ export default function Board() {
             <Switch>
               <Route path="/" exact component={BoardHome} />
               <Route path="/sign-in" component={SignIn} />
+              <Route path="/sign-up" component={SignUp} />
               <Route path="/introduction" component={Introduction} />
               <Route path="/ttp" component={TTP} />
               <Route path="/projects" component={Projects} />
