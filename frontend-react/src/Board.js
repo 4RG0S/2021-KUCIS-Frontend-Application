@@ -3,10 +3,10 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 import CssBaseline from '@material-ui/core/CssBaseline';
 import Container from '@material-ui/core/Container';
-import Header from './Header';
-import Footer from './Footer';
+import Header from './components/Header';
+import Footer from './components/Footer';
 
-import BoardHome from './BoardHome';
+import BoardHome from './pages/BoardHome';
 import SignIn from './pages/SignIn';
 import SignUp from './pages/SignUp';
 import Introduction from './pages/Introduction';

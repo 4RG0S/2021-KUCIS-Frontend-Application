@@ -4,11 +4,11 @@ import Grid from '@material-ui/core/Grid';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import TwitterIcon from '@material-ui/icons/Twitter';
-import MainFeaturedPost from './MainFeaturedPost';
-import FeaturedPost from './FeaturedPost';
-import Main from './Main';
-import Sidebar from './Sidebar';
-import post1 from './blog-post.1.md';
+import MainFeaturedPost from '../components/MainFeaturedPost';
+import FeaturedPost from '../components/FeaturedPost';
+import Main from '../components/Main';
+import Sidebar from '../components/Sidebar';
+import post1 from '../blog-post.1.md';
 
 const useStyles = makeStyles((theme) => ({
   mainGrid: {
